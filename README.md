@@ -5,6 +5,8 @@ Try https://haveibeenpwned.com/ and enter your email address and ANY password yo
 
 Links:
 SHA1 generator - https://passwordsgenerator.net/sha1-hash-generator/
+https://docs.python.org/3/library/hashlib.html
+
 
 Instructions:
 
